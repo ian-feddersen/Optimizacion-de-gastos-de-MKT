@@ -2,11 +2,11 @@
 Optimización de gastos en Marketing para SHOWZ
 
 
-# Optimización de Gastos de Marketing para Showz
+# 📊Optimización de Gastos de Marketing para Showz
 ## Marketing Analytics
 
 
-## Descripción del Proyecto
+## 📌Descripción del Proyecto
 Este proyecto se centra en la optimización de los gastos de marketing para Showz, una empresa de venta de entradas para eventos. Utilizando datos de visitas, pedidos y gastos de marketing desde enero de 2017 hasta diciembre de 2018, se realizó un análisis exhaustivo para:
 
 #### Comprender cómo los clientes utilizan el servicio.
@@ -19,7 +19,7 @@ Este proyecto se centra en la optimización de los gastos de marketing para Show
 
 #### El objetivo final es proporcionar recomendaciones estratégicas para optimizar los gastos de marketing y maximizar el retorno de la inversión (ROI).
 
-## Tecnologías Utilizadas
+## 🛠Tecnologías Utilizadas
 Lenguajes de programación: Python
 
 Librerías principales: Pandas, Matplotlib, Seaborn
@@ -28,7 +28,7 @@ Herramientas: Jupyter Notebook
 
 Métricas clave: LTV (Valor de Vida del Cliente), CAC (Costo de Adquisición de Clientes), ROMI (Retorno de la Inversión en Marketing)
 
-## Estructura del Proyecto
+## 📊Estructura del Proyecto
 El proyecto se divide en tres pasos principales:
 
 ### 1. Preparación de Datos
@@ -68,7 +68,7 @@ Gráficos para mostrar tendencias y métricas clave.
 
 Recomendaciones estratégicas para optimizar los gastos de marketing.
 
-# Resultados Clave
+# 📈Resultados Clave
 ## Visitas
 Tendencia general: Las visitas mostraron un crecimiento constante, con picos notables en ciertas fechas (por ejemplo, 2,256 visitas el 31 de mayo de 2018).
 
